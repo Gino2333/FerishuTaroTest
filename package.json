@@ -55,7 +55,9 @@
     "@tarojs/plugin-framework-react": "3.5.8",
     "@tarojs/react": "3.5.8",
     "react-dom": "^18.0.0",
-    "react": "^18.0.0"
+    "react": "^18.0.0",
+    "@universe-design/miniprogram-common": "2.19.3",
+    "@universe-design/miniprogram-taro": "2.19.3"
   },
   "devDependencies": {
     "@babel/core": "^7.8.0",
